@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AKADEMIJA Clients">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2150000965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contract</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 389816250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Client No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 1212258331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Client Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 2349452994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 2971546435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 2971546435 - Method 2126772001 - NamedType 1551832914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prad=ios data negali b9ti v4lesn4 nei pabaigos data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract End Date - Method OnValidate - NamedType BadDateErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 3609111399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 446829322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 446829322 - Method 2126772001 - NamedType 1551832914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prad=ios data negali b9ti v4lesn4 nei pabaigos data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract Start Date - Method OnValidate - NamedType BadDateErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2150000965 - Field 2620006610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract - Field Contract Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3968358504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3968358504 - Field 1172143356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract NoSeries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract Setup - Field Contract Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3968358504 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Client Contract Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contract</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 389816250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Client No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 1212258331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Client Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 2349452994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 2971546435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 2971546435 - Method 2126772001 - NamedType 1551832914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prad=ios data negali b9ti v4lesn4 nei pabaigos data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract End Date - Method OnValidate - NamedType BadDateErr</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 3609111399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 446829322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 446829322 - Method 2126772001 - NamedType 1551832914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prad=ios data negali b9ti v4lesn4 nei pabaigos data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract Start Date - Method OnValidate - NamedType BadDateErr</note>
+        </trans-unit>
+        <trans-unit id="Table 146330836 - Field 2620006610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Version - Field Contract Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contract</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 2356547654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Genaral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 389816250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Client No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 1212258331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Client Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 2971546435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Contract End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 3609111399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Contract No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 446829322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Contract Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Control 2620006610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Control Contract Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Action 2034551330 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Action OpenContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Action 2034551330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Action OpenContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Action 2643867445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Action ReleaseContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3916656073 - Action 2643867445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Card - Action ReleaseContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contracts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 389816250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Client No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 1212258331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Client Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 2971546435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Contract End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 3609111399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Contract No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 446829322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Contract Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Control 2620006610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Control Contract Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mano bandymas 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Action 2034551330 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Action OpenContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Action 2034551330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Action OpenContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Action 2643867445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Action ReleaseContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2972120475 - Action 2643867445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract List - Action ReleaseContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3968358504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contract Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3968358504 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3968358504 - Control 1172143356 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Client Contract Setup - Control Contract Nos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 2356547654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Genaral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 389816250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Client No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 1212258331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Client Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 2971546435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Contract End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 3609111399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Contract No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 446829322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Contract Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Control 2620006610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Control Contract Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Action 2034551330 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Action OpenContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Action 2034551330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Action OpenContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Action 2643867445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Action ReleaseContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471277280 - Action 2643867445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version Card - Action ReleaseContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 389816250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Client No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 1212258331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Client Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 2971546435 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Contract End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 3609111399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Contract No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 446829322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Contract Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Control 2620006610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Control Contract Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mano bandymas 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Action 2034551330 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Action OpenContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Action 2034551330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Action OpenContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Action 2643867445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Action ReleaseContract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1003784934 - Action 2643867445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Contract Version List - Action ReleaseContract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2396485542 - Action 2823560892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Client Contracts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerCard - Action ClientContracts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2396485542 - Action 2823560892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Client Contracts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerCard - Action ClientContracts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2396485542 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerCard - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2396485542 - Control 3673736851 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Contract Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerCard - Control Contract Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3520646144 - Control 2349452994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerList - Control Contract Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3520646144 - Control 3673736851 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Contract Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract CustomerList - Control Contract Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3036592878 - Action 2823560892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Client Contracts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract VendorCard - Action ClientContracts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3036592878 - Action 2823560892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Client Contracts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Contract VendorCard - Action ClientContracts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 233164538 - Field 2349452994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Contract Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Contract Customer - Field Contract Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 233164538 - Field 3673736851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Contract Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Contract Customer - Field Contract Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3122986633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Contract Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3122986633 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3122986633 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Status - EnumValue Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1640449949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1640449949 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Type - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1640449949 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Client Contract Type - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AKADEMIJA-DEMO">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2328808854 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field MyField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3156178197 - Field 4108221410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldWithParameters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable1 - Field MyFieldWithParameters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3156178197 - Field 2576556913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldWithTriggers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable1 - Field MyFieldWithTriggers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 1128709415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldBlob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldBlob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 2891153542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldBoolean</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldBoolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 4122540565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 1357600094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 2173706649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldDateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldDateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 2508464503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldDecimal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldDecimal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 1063056719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldEnum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldEnum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 2504554884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldInteger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldInteger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 2310760518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldMedia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldMedia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 1453103069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldText</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518481580 - Field 4294116605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyFieldTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable2 - Field MyFieldTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1880784963 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable3 - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1880784963 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable3 - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1243088346 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable4 - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1243088346 - Field 1630015587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable4 - Field Some Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 605391729 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable5 - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 605391729 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable5 - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 605391729 - Field 4157612908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyTable5_Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable5 - Field MyTable5_Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4262662408 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable6 - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4262662408 - Field 2694188589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyTable6_Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable6 - Field MyTable6_Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4262662408 - Field 1630015587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable6 - Field Some Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3624965791 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable7 - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3624965791 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable7 - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3624965791 - Field 384268007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyTable7Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable7 - Field MyTable7Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 305513158 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable8 - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 305513158 - Field 1630015587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable8 - Field Some Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 305513158 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable8 - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3962783837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mano Lentelė</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3962783837 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mano Laukas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable9 - Field MyField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3962783837 - Field 4217033285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyTextField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable9 - Field MyTextField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23340464 - Control 1343161592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Variable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage3 - Control GlobalVariableCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23340464 - Control 4100766550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage3 - Control NumberCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3211823549 - Action 59057866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Tooltip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage4 - Action MyActionRunObject - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3211823549 - Action 59057866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage4 - Action MyActionRunObject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3211823549 - Action 486136870 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Tooltip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage4 - Action MyActionTrigger - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3211823549 - Action 486136870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage4 - Action MyActionTrigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AKADEMIJA DEMO PAGE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Field Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Control 2671878736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Long text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Control MyLongTextVariableCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Control 241939466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Control MyTextVariableCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Action 1692444235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Action ActionName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Action 3293562599 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Action OpenListPage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849520166 - Action 3293562599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open My LIST PAGE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage5 - Action OpenListPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1936430315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AKADEMIJA LIST PAGE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2574126932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AKADEMIJA LIST PAGE NEW</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4149398737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AKADEMIJA DEMO PAGE GROUP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage8 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
