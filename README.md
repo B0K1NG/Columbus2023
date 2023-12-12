@@ -25,6 +25,11 @@ Despite not completing the project due to a shift in my career path, the journey
 
 The Columbus2023 internship was not just about completing a project; it was a journey of personal and professional development. While the project may not have aligned with my ultimate career path, the skills and insights gained have undoubtedly contributed to my present achievements.
 
+## Tech Stack 💻
+
+- AL
+- Visual Studio Code
+
 ## Thank You, Columbus! 🙌
 
 A sincere thank you to Columbus for providing a platform for growth and learning. The experience, though brief, has left a lasting impact on my journey.
